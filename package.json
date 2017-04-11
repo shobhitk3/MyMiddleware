@@ -1,0 +1,20 @@
+{
+  "name": "thinkables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^2.0.0",
+    "fsp": "^0.1.2",
+    "isset": "^1.0.3",
+    "json-stringify-safe": "^5.0.1",
+    "modesl": "^1.1.9",
+    "thinkable-ducks": "^10.1.0",
+    "util": "^0.10.3"
+  }
+}
